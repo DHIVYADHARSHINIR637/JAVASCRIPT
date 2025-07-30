@@ -1,0 +1,11 @@
+let isMale=true;
+console.log(isMale);
+let  age=null;
+console.log(age);
+let dob;
+console.log(dob);
+let myname="dhivya";
+myname="dharshini";
+console.log(myname);
+myname=897;
+console.log(myname);
